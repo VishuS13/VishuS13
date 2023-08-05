@@ -4,7 +4,7 @@
 <img width="50%" align="right" alt="Github" src="https://avatars1.githubusercontent.com/u/6430350?s=400&v=4" />
 
 
-- 😎 Student of Graphic Era Hill University pursuing B.Tech in CS (2019-23)
+- 😎 Graduated from Graphic Era Hill University with a Bachelors degree in CSE (2019-23)
 - 📫 svishu178@gmail.com
 
 
