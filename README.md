@@ -22,7 +22,7 @@
 </br>
    <img alt="HTML" src="https://img.shields.io/badge/-HTML-05122A?style=flat&amp;logo=HTML5" style="max-width:100%;">
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-05122A?style=flat&amp;logo=CSS3&amp;logoColor=1572B6" style="max-width:100%;"> 
- 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 </p>
 
 ---
